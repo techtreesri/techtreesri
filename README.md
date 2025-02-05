@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techtreesri
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning webdevelopmeny
+- 👀 I’m interested in cyber security and data mining 
+- 🌱 I’m currently learning data mining
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
